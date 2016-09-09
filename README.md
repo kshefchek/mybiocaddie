@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/biodatabases/mybiocaddie.svg?branch=master)](https://travis-ci.org/biodatabases/mybiocaddie)
+[![Build Status](https://travis-ci.org/kshefchek/mybiocaddie.svg?branch=gh-pages)](https://travis-ci.org/kshefchek/mybiocaddie)
 
 # My BioCaddie
 
